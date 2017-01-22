@@ -1,7 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-// deformación temporal
 tiempo ++
 factor = factormedio+amp*sin(pi*tiempo/wl)
 xspeedmax = xspeedmax0*factor

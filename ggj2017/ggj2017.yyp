@@ -797,6 +797,25 @@
                 "resourcePath": "sprites\\spr_Sim\\spr_Sim.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "1f8bad1d-08e0-4828-826d-db74b5a9c031",
+            "Value": {
+                "id": "393664d9-9836-421a-967e-33e88c79a62f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\\9fb235df-d279-446e-a7aa-bb548dfae8c2-room.yy",
+                "resourceType": "GMFolder"
+            }
         }
     ],
     "room_order": [

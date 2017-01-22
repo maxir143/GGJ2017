@@ -12,8 +12,10 @@ val[4,0] = oTim.factorroom
 val[4,1] = "factorroom"
 val[5,0] = oTim.amproom
 val[5,1] = "amproom"
-val[5,0] = oTim.tiempo/room_speed
-val[5,1] = "tiempo"
+val[6,0] = round(fps_real) 
+val[6,1] = "fps"
+val[7,0] = round(delta_time) 
+val[7,1] = "delta_time"
 
 for(var i = 0 ; i < array_height_2d(val) ; i++){
 	draw_text(0,i*16,string(val[i,1])+ ": " +string(val[i,0]))

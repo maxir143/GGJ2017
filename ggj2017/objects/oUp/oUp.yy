@@ -5,7 +5,7 @@
     "name": "oUp",
     "eventList": [
         {
-            "id": "1401d0b1-6ee9-45b6-b031-fd5707946cf2",
+            "id": "4817c6f4-a831-460b-908b-7d050fc9bad0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -30,7 +30,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "solid": false,
+    "solid": true,
     "spriteId": "626f2f64-3663-4b76-af23-77976a89959d",
     "visible": true
 }
